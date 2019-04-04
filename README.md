@@ -9,4 +9,4 @@ Die wichtigsten Grammatikthemen sind:
  <br />2. <a href="https://drjhirsch.github.io/gustar">Satzbau mit dem Verb gustar</a> 
  <br />3. <a href="https://hirsch.next-cloud.org/index.php/s/wMeb9fjqRGMgPfy">Verlaufsform im Präsens</a> 
  <br />4. <a href="https://drjhirsch.github.io/imperativo">Bejahter Imperativ</a> 
- <br />5. <a href="https://www.youtube.com/watch?v=i4PY8ntTXBg">Nahe Zukunft</a> 
+ <br />5. <a href="https://drjhirsch.github.io/irainfinitivo">Nahe Zukunft</a> 
